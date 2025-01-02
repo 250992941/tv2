@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250102 07:49:16,url
+20250102 16:49:49,url
 
 
 freetv_ws,#genre#
@@ -117,7 +117,6 @@ freetv_ws,#genre#
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-97.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-98.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-99.m3u8
-东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-106.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-14.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-15.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-16.ctv
@@ -185,7 +184,6 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-10.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-100.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-102.m3u8
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-103.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-104.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-105.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-17.m3u8
@@ -202,7 +200,6 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-36.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-4.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-40.m3u8
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-42.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-43.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-44.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-45.m3u8
@@ -219,7 +216,6 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-72.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-76.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-77.m3u8
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-8.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-81.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-85.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-86.ctv
@@ -228,6 +224,7 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-90.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-91.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-96.m3u8
+北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-98.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-99.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-gao-qing-2.m3u8
 北京卫视,https://stream1.freetv.fun/ipv6-bei-jing-wei-shi-1.m3u8
@@ -324,7 +321,6 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/ipv6-si-chuan-wei-shi-9.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-12.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-13.m3u8
-四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-14.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-19.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-22.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-23.m3u8
@@ -344,7 +340,6 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-60.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-61.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-63.m3u8
-四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-67.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-72.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-74.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-75.m3u8
@@ -368,14 +363,11 @@ freetv_ws,#genre#
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-20.ctv
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.ctv
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-26.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-27.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-4.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-6.m3u8
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-8.ctv
 大湾区卫视,https://stream1.freetv.fun/ipv6-da-wan-qu-wei-shi-10.m3u8
 大湾区卫视,https://stream1.freetv.fun/ipv6-da-wan-qu-wei-shi-7.m3u8
 天津卫视,https://stream1.freetv.fun/ipv6-tian-jin-wei-shi-10.m3u8
@@ -1167,8 +1159,6 @@ freetv_ws,#genre#
 深圳卫视,https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-99.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-1.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-10.m3u8
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-102.ctv
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-11.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-12.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-13.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-15.m3u8
@@ -1251,6 +1241,7 @@ freetv_ws,#genre#
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-73.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-75.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-76.m3u8
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-77.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-78.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-79.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-8.m3u8
@@ -1394,10 +1385,8 @@ freetv_ws,#genre#
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 福建东南卫视,https://stream1.freetv.fun/fu-jian-dong-nan-wei-shi-2.m3u8
-西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-1.m3u8
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-4.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-1.m3u8
-贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-100.m3u8
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-104.m3u8
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-11.m3u8
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-19.m3u8
@@ -1573,7 +1562,6 @@ freetv_ws,#genre#
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-9.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-90.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-92.m3u8
-重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-97.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-98.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-gao-qing-1.m3u8
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-117.m3u8
