@@ -1,4 +1,4 @@
-🐟上次更新时间：2025-01-20 07:00:07🐟,https://sp.4n2.cn/?api=xjj
+🐟上次更新时间：2025-01-20 16:00:10🐟,https://sp.4n2.cn/?api=xjj
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
