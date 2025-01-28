@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250128 07:49:01,url
+20250128 16:49:51,url
 
 
 freetv_ws,#genre#
@@ -378,16 +378,11 @@ freetv_ws,#genre#
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-82.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-86.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-88.m3u8
-康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-14.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-15.ctv
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-19.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-20.ctv
-康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-21.m3u8
-康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-22.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-24.ctv
-康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-25.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-27.m3u8
-康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-6.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-1.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-10.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-11.m3u8
@@ -894,6 +889,7 @@ freetv_ws,#genre#
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-71.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-77.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-79.m3u8
+黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-80.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-84.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-85.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-9.m3u8
