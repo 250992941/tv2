@@ -1,4 +1,4 @@
-🐟上次更新时间：2025-02-04 07:00:22🐟,https://sp.4n2.cn/?api=xjj
+🐟上次更新时间：2025-02-04 16:00:09🐟,https://sp.4n2.cn/?api=xjj
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
