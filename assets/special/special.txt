@@ -1,4 +1,4 @@
-🐟上次更新时间：2025-02-07 07:00:09🐟,https://sp.4n2.cn/?api=xjj
+🐟上次更新时间：2025-02-07 16:00:09🐟,https://sp.4n2.cn/?api=xjj
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
