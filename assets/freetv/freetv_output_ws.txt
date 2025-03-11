@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250311 07:48:54,url
+20250311 16:51:58,url
 
 
 freetv_ws,#genre#
@@ -632,6 +632,8 @@ freetv_ws,#genre#
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-226.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-227.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-228.m3u8
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-229.m3u8
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-230.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-65.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-8.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-1.m3u8
