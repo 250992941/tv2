@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250316 07:49:07,url
+20250316 16:49:35,url
 
 
 freetv_ws,#genre#
@@ -144,10 +144,7 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-80.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-95.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-97.m3u8
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-1.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-14.ctv
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-17.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-19.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-2.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-20.m3u8
@@ -287,6 +284,7 @@ freetv_ws,#genre#
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-2.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-20.ctv
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-23.m3u8
+康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-25.m3u8
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-27.ctv
 康巴卫视,https://stream1.freetv.fun/kang-ba-wei-shi-28.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-1.m3u8
@@ -295,6 +293,7 @@ freetv_ws,#genre#
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-12.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-13.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-14.m3u8
+延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-18.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-2.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-21.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-28.m3u8
@@ -634,6 +633,7 @@ freetv_ws,#genre#
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-250.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-251.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-252.m3u8
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-256.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-65.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-8.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-1.m3u8
