@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250319 07:48:46,url
+20250319 16:53:30,url
 
 
 freetv_ws,#genre#
@@ -134,7 +134,6 @@ freetv_ws,#genre#
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-11.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-15.ctv
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-16.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-17.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-19.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
@@ -571,6 +570,7 @@ freetv_ws,#genre#
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-266.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-268.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-269.m3u8
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-270.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-65.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-13.m3u8
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-18.m3u8
