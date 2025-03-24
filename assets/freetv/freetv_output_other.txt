@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250324 07:48:58,url
+20250324 16:52:53,url
 
 
 freetv_other,#genre#
@@ -47,7 +47,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 cetv1,https://stream1.freetv.fun/cetv1-9.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-11.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-16.ctv
-cgtn,https://stream1.freetv.fun/cgtn-25.ctv
 cgtn,https://stream1.freetv.fun/cgtn-39.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-7.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-8.m3u8
@@ -175,7 +174,9 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-11.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-13.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
@@ -706,6 +707,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-14.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-5.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-7.m3u8
+河北都市,https://stream1.freetv.fun/he-bei-du-shi-8.m3u8
 河南新闻,https://stream1.freetv.fun/he-nan-xin-wen-2.m3u8
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.ctv
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-4.m3u8
@@ -783,7 +785,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-5.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-6.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-7.ctv
-深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-8.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-12.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-13.m3u8
