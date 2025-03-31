@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250331 16:53:27,url
+20250401 07:49:01,url
 
 
 freetv_other,#genre#
@@ -22,6 +22,7 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-8.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-16.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-19.ctv
@@ -71,8 +72,6 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
 tvbs亚洲台,https://stream1.freetv.fun/tvbsya-zhou-3.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
-tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
-三立台灣,https://stream1.freetv.fun/san-li-tai-wan-6.ctv
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-3.ctv
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
@@ -156,7 +155,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
 内黄新闻综合频道,https://stream1.freetv.fun/nei-huang-xin-wen-zong-he-1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
@@ -671,6 +669,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-5.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-7.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-8.m3u8
+河南新闻,https://stream1.freetv.fun/he-nan-xin-wen-1.m3u8
 河南新闻,https://stream1.freetv.fun/he-nan-xin-wen-2.m3u8
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.ctv
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-4.m3u8
