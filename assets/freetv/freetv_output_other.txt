@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250402 07:48:59,url
+20250402 16:54:22,url
 
 
 freetv_other,#genre#
@@ -26,7 +26,6 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-16.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-19.ctv
@@ -162,6 +161,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-24.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-5.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
@@ -646,6 +646,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-4.m3u8
 武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-5.m3u8
 武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-6.m3u8
+武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-7.m3u8
 武陟新闻综合频道,https://stream1.freetv.fun/wu-zhi-xin-wen-zong-he-1.m3u8
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
 民視新聞台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
