@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250406 16:50:26,url
+20250407 07:48:45,url
 
 
 freetv_other,#genre#
@@ -52,6 +52,7 @@ cetv1,https://stream1.freetv.fun/ipv6-cetv1-10.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-11.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-16.ctv
 cgtn,https://stream1.freetv.fun/cgtn-20.m3u8
+cgtn,https://stream1.freetv.fun/cgtn-31.ctv
 cgtn,https://stream1.freetv.fun/cgtn-39.m3u8
 j2,https://stream1.freetv.fun/j2-3.ctv
 nba tv,https://stream1.freetv.fun/nba-tv-6.m3u8
@@ -152,7 +153,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 内蒙少儿,https://stream1.freetv.fun/nei-meng-shao-er-6.ctv
 内黄新闻综合频道,https://stream1.freetv.fun/nei-huang-xin-wen-zong-he-1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
@@ -487,7 +487,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-1.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-11.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-12.ctv
-广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-13.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-16.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-2.m3u8
@@ -668,7 +667,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-27.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-5.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-7.m3u8
-河北都市,https://stream1.freetv.fun/he-bei-du-shi-8.m3u8
 河南新闻,https://stream1.freetv.fun/he-nan-xin-wen-1.m3u8
 河南新闻,https://stream1.freetv.fun/he-nan-xin-wen-2.m3u8
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-3.ctv
@@ -746,6 +744,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-5.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-6.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-7.ctv
+深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-9.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-10.m3u8
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-11.m3u8
@@ -949,9 +948,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-7.m3u8
 苍南新闻综合频道,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-2.m3u8
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
-苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-16.m3u8
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
-苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-1.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-2.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-4.m3u8
