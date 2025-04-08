@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250408 07:48:57,url
+20250408 16:54:08,url
 
 
 freetv_other,#genre#
@@ -73,6 +73,7 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
 tvbs亚洲台,https://stream1.freetv.fun/tvbsya-zhou-3.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
+三立台灣,https://stream1.freetv.fun/san-li-tai-wan-6.ctv
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
@@ -163,13 +164,10 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-24.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-5.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
 刘德华,https://stream1.freetv.fun/liu-de-hua-5.ctv
-刘德华,https://stream1.freetv.fun/liu-de-hua-7.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-13.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-2.m3u8
@@ -590,6 +588,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8
 新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
+新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-5.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-1.m3u8
@@ -640,20 +639,18 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-4.ctv
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
+東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 東森超視,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 林正英,https://stream1.freetv.fun/lin-zheng-ying-7.ctv
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-4.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8
-武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-1.m3u8
 武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-11.ctv
 武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-17.m3u8
 武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-4.m3u8
-武汉新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-1.m3u8
 武汉生活,https://stream1.freetv.fun/wu-yi-sheng-huo-1.m3u8
 武汉生活,https://stream1.freetv.fun/wu-yi-sheng-huo-4.m3u8
-武汉经济 (360p),https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
 武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-4.m3u8
 武汉经济,https://stream1.freetv.fun/wu-yi-jing-ji-5.m3u8
 武陟新闻综合频道,https://stream1.freetv.fun/wu-zhi-xin-wen-zong-he-1.m3u8
@@ -664,6 +661,8 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 民视新闻 hd,https://stream1.freetv.fun/min-shi-xin-wen-9.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-15.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-4.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-8.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8
@@ -685,7 +684,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 江西都市,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv2
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-14.ctv
 沁阳新闻综合频道,https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
-河北农民,https://stream1.freetv.fun/he-bei-nong-min-1.m3u8
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-18.m3u8
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-20.m3u8
 河北农民,https://stream1.freetv.fun/he-bei-nong-min-25.m3u8
