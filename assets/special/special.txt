@@ -3906,45 +3906,38 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「亚冠精英」05月01日00:30-半决赛-利雅得胜利 vs 川崎前锋-刘焕,https://tv.iill.top/FB/N83W9V
-「中超」05月01日15:30-联赛-大连英博 vs 云南玉昆-张昊泽 徐云龙,https://tv.iill.top/FB/KU63To
-「中超」05月01日15:30-联赛-大连英博 vs 云南玉昆-赛场原声,https://tv.iill.top/FB/7XzuEy
-「中超」05月01日18:30-联赛-深圳新鹏城 vs 天津津门虎-刘腾 李欣,https://tv.iill.top/FB/0z1vqF
-「中超」05月01日18:30-联赛-深圳新鹏城 vs 天津津门虎-赛场原声,https://tv.iill.top/FB/iJHrjG
-「中超」05月01日19:00-联赛-河南 vs 武汉三镇-袁甲 雷腾龙,https://tv.iill.top/FB/Sp3QGT
-「中超」05月01日19:00-联赛-河南 vs 武汉三镇-赛场原声,https://tv.iill.top/FB/y5yuNq
-「中超」05月01日19:00-联赛-浙江 vs 长春亚泰-张天翼 王伟,https://tv.iill.top/FB/eIGudR
-「中超」05月01日19:00-联赛-浙江 vs 长春亚泰-赛场原声,https://tv.iill.top/FB/Z6rzxD
-「中超」05月01日19:35-联赛-上海海港 vs 北京国安-梁祥宇 刘越,https://tv.iill.top/FB/7uUpTk
-「中超」05月01日19:35-联赛-上海海港 vs 北京国安-娄一晨 李彦 魏欣怡,https://tv.iill.top/FB/5cjNmD
-「中超」05月01日19:35-联赛-上海海港 vs 北京国安-4K赛场原声,https://tv.iill.top/FB/gsBfTn
-「中超」05月01日19:35-联赛-山东泰山 vs 青岛海牛-黄健翔 徐阳 李子琪,https://tv.iill.top/FB/PKGuJ3
-「中超」05月01日19:35-联赛-山东泰山 vs 青岛海牛-赛场原声,https://tv.iill.top/FB/ZoOfrK
-「NBA」05月01日07:30-季后赛-勇士VS火箭-孙博 周鹏 闫宇峰,https://tv.iill.top/NBA/XvW5AP
-「NBA」05月01日07:30-季后赛-勇士VS火箭-拜月宁,https://tv.iill.top/NBA/cbBLGa
-「NBA」05月01日07:30-季后赛-勇士VS火箭-陈鑫隆,https://tv.iill.top/NBA/EuR0QL
-「NBA」05月01日07:30-季后赛-勇士VS火箭-英文原声,https://tv.iill.top/NBA/mDhX5V
-「NBA」05月01日10:00-季后赛-森林狼VS湖人-杨健 苏群 李根,https://tv.iill.top/NBA/7ZgZjg
-「NBA」05月01日10:00-季后赛-森林狼VS湖人-郑泽鹏,https://tv.iill.top/NBA/vMplNn
-「NBA」05月01日10:00-季后赛-森林狼VS湖人-莫俊祺,https://tv.iill.top/NBA/k27dT1
-「NBA」05月01日10:00-季后赛-森林狼VS湖人-洪荒,https://tv.iill.top/NBA/Ydo2Wn
-「NBA」05月01日10:00-季后赛-森林狼VS湖人-英文原声,https://tv.iill.top/NBA/M3Z0le
-「斯诺克」05月01日02:00-斯诺克世锦赛1/4决赛：罗尼·奥沙利文 vs 斯佳辉（第三阶段）-罗尼·奥沙利文 vs 斯佳辉-1号桌,https://tv.iill.top/Migu/hWu6Fb
-「斯诺克」05月01日02:00-斯诺克世锦赛1/4决赛：罗尼·奥沙利文 vs 斯佳辉（第三阶段）-罗尼·奥沙利文 vs 斯佳辉-2号桌,https://tv.iill.top/Migu/vPBpao
-「斯诺克」05月01日02:00-斯诺克世锦赛1/4决赛：卢卡·布雷切尔 vs 贾德·特鲁姆普（第三阶段）-卢卡·布雷切尔 vs 贾德·特鲁姆普-2号桌,https://tv.iill.top/Migu/RvqjWe
-「国青男篮国际挑战赛」05月01日16:00-国青男篮国际挑战赛-芬兰vs新西兰-清流播出,https://tv.iill.top/Migu/5bdDZF
-「LPL」05月01日16:30-FPX vs TES-FPX vs TES-官方解说,https://tv.iill.top/Migu/ZTtqUZ
-「KPL」05月01日18:40-上海EDG.M vs 佛山DRG-上海EDG.M vs 佛山DRG-官方解说,https://tv.iill.top/Migu/TqeLLr
-「CBA」05月01日19:35-季后赛半决赛-辽宁本钢vs浙江方兴渡-姜帆 苏群 刘铁,https://tv.iill.top/Migu/QY39c5
-「CBA」05月01日19:35-季后赛半决赛-辽宁本钢vs浙江方兴渡-哈秋,https://tv.iill.top/Migu/Ek6kj4
-「CBA」05月01日19:35-季后赛半决赛-辽宁本钢vs浙江方兴渡-郭知昊,https://tv.iill.top/Migu/4RHuX8
-「CBA」05月01日19:35-季后赛半决赛-辽宁本钢vs浙江方兴渡-现场原声,https://tv.iill.top/Migu/TlyQji
-「LPL」05月01日20:00-AL vs IG-AL vs IG-官方解说,https://tv.iill.top/Migu/NGhIRK
-「国青男篮国际挑战赛」05月01日20:00-国青男篮国际挑战赛-中国vs塞尔维亚-清流播出,https://tv.iill.top/Migu/Nt57al
-「斯诺克」05月01日20:00-2025斯诺克世界锦标赛半决赛：赵心童PK奥沙利文-赵心童PK奥沙利文-清流播出,https://tv.iill.top/Migu/BQLB0U
-「WTA」05月01日22:00-WTA马德里站半决赛-WTA马德里站半决赛-赛场原声,https://tv.iill.top/Migu/6HmwQC
-「WTA」05月01日22:00-WTA马德里站半决赛-WTA马德里站半决赛-邱超,https://tv.iill.top/Migu/LVZhj9
-「WTA」05月01日22:00-WTA马德里站半决赛-WTA马德里站半决赛-蔡凯臣,https://tv.iill.top/Migu/xaFi3W
+「英超」05月02日02:30-联赛-诺丁汉森林 vs 布伦特福德-刘焕,https://tv.iill.top/FB/1VVsYW
+「英超」05月02日02:30-联赛-诺丁汉森林 vs 布伦特福德-刘焕,https://tv.iill.top/FB/Qx2F84
+「中超」05月02日19:00-联赛-青岛西海岸 vs 梅州客家-石庆圣 于海,https://tv.iill.top/FB/uUDWER
+「中超」05月02日19:00-联赛-青岛西海岸 vs 梅州客家-赛场原声,https://tv.iill.top/FB/t6x09J
+「中超」05月02日19:35-联赛-成都蓉城 vs 上海申花-苏东 杨晨 林梦鸽,https://tv.iill.top/FB/EtoMAN
+「中超」05月02日19:35-联赛-成都蓉城 vs 上海申花-赛场原声,https://tv.iill.top/FB/umx7ql
+「NBA」05月02日07:30-季后赛-尼克斯VS活塞-王晓晨 孔德昕 秋童,https://tv.iill.top/NBA/BOJEuA
+「NBA」05月02日07:30-季后赛-尼克斯VS活塞-英文原声,https://tv.iill.top/NBA/DPvFV9
+「NBA」05月02日10:00-季后赛-掘金VS快船-王冠证 贺希宁 陈正昊,https://tv.iill.top/NBA/RfDJKF
+「NBA」05月02日10:00-季后赛-掘金VS快船-英文原声,https://tv.iill.top/NBA/8RCet1
+「NBA经典赛事」05月02日19:00-经典赛事-2018年西决 火勇大战G6-经典赛事-2018年西决 火勇大战G6-王冠证,https://tv.iill.top/NBA/JIYTEc
+「斯诺克」05月02日02:00-斯诺克世锦赛半决赛：马克·威廉姆斯 vs 贾德·特鲁姆普（第一阶段）-马克·威廉姆斯 vs 贾德·特鲁姆普-1号桌,https://tv.iill.top/Migu/JMp1Ij
+「WTA」05月02日03:30-WTA马德里站半决赛：高芙横扫斯瓦泰克 萨巴伦卡凌晨出战-高芙横扫斯瓦泰克 萨巴伦卡凌晨出战-蔡凯臣,https://tv.iill.top/Migu/QYV6L8
+「WTA」05月02日03:30-WTA马德里站半决赛：高芙横扫斯瓦泰克 萨巴伦卡凌晨出战-高芙横扫斯瓦泰克 萨巴伦卡凌晨出战-赛场原声,https://tv.iill.top/Migu/xpBeyE
+「中乙」05月02日15:00-中乙联赛-山西崇德荣海vs无锡吴钩-解说,https://tv.iill.top/Migu/7ONnVx
+「中乙」05月02日16:00-中乙联赛-湖北青年星vs上海海港富盛经开-解说,https://tv.iill.top/Migu/79rrI9
+「中乙」05月02日16:00-中乙联赛-昆明城星vs深圳二零二八-解说,https://tv.iill.top/Migu/kISByS
+「中乙」05月02日16:30-中乙联赛-泉州亚新vs成都蓉城B队-解说,https://tv.iill.top/Migu/jr5JX9
+「LPL」05月02日16:30-OMG vs RNG-OMG vs RNG-官方解说,https://tv.iill.top/Migu/DRyzr5
+「LPL」05月02日16:30-OMG vs RNG-OMG vs RNG-清流,https://tv.iill.top/Migu/eKQGMg
+「斯诺克」05月02日17:00-斯诺克世锦赛半决赛：赵心童vs奥沙利文（第二阶段）-赵心童 vs 罗尼·奥沙利文-1号桌,https://tv.iill.top/Migu/GNjp5k
+「KPL」05月02日18:40-成都AG超玩会 vs 北京WB-成都AG超玩会 vs 北京WB-官方解说,https://tv.iill.top/Migu/9c3DN3
+「中乙」05月02日19:00-中乙联赛-兰州陇原竞技vs长春喜都-解说,https://tv.iill.top/Migu/i5dGTe
+「中乙」05月02日19:30-中乙联赛-广西蓝航vs武汉三镇B队-解说,https://tv.iill.top/Migu/xNAURo
+「中乙」05月02日19:30-中乙联赛-贵州筑城竞技vs广州蒲公英德桦绿建-解说,https://tv.iill.top/Migu/Kdszvx
+「CBA」05月02日19:35-季后赛半决赛-北京北汽vs山西汾酒-连睿 闫宇峰 杨健,https://tv.iill.top/Migu/hZztQF
+「CBA」05月02日19:35-季后赛半决赛-北京北汽vs山西汾酒-谭成国,https://tv.iill.top/Migu/UQHner
+「CBA」05月02日19:35-季后赛半决赛-北京北汽vs山西汾酒-石楷文,https://tv.iill.top/Migu/nwKFYr
+「CBA」05月02日19:35-季后赛半决赛-北京北汽vs山西汾酒-现场原声,https://tv.iill.top/Migu/jbgsFY
+「LPL」05月02日20:00-BLG vs WBG-BLG vs WBG-官方解说,https://tv.iill.top/Migu/WGoDb7
+「LPL」05月02日20:00-BLG vs WBG-BLG vs WBG-清流,https://tv.iill.top/Migu/laUtCs
+「斯诺克」05月02日21:30-斯诺克世锦赛半决赛：马克·威廉姆斯 vs 贾德·特鲁姆普（第二阶段）-马克·威廉姆斯 vs 贾德·特鲁姆普-1号桌,https://tv.iill.top/Migu/uKbumB
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
